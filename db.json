@@ -1,0 +1,198 @@
+{
+  "jobs": [
+    {
+      "id": "7077",
+      "title": "Associate System Enginner",
+      "company": "IBM",
+      "category": "Programming",
+      "location": "Banglore",
+      "type": "Full-time",
+      "salary": "450000",
+      "experience": "Freshers",
+      "skills": [
+        ""
+      ],
+      "description": "",
+      "applyUrl": "https://ibmglobal.avature.net/en_US/careers/JobDetail/Associate-System-Engineer/66789",
+      "postedDate": "Today",
+      "postedBy": "admin",
+      "postedByUser": "Admin"
+    },
+    {
+      "id": "5fb6",
+      "title": "Graduate Enginner Trainee",
+      "company": "Invesco",
+      "category": "Programming",
+      "location": "Hyderabad, Telangana",
+      "type": "Full-time",
+      "salary": "",
+      "experience": "",
+      "skills": [
+        ""
+      ],
+      "description": "",
+      "applyUrl": "https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Graduate-Engineer-Trainee_R-12542?source=LinkedIn",
+      "postedDate": "Today",
+      "postedBy": "admin",
+      "postedByUser": "Admin"
+    },
+    {
+      "id": "b9fa",
+      "title": "Software Engineer",
+      "company": "Service Now",
+      "category": "Backend",
+      "location": "Hyderabad",
+      "type": "Full-time",
+      "salary": "",
+      "experience": "",
+      "skills": [
+        ""
+      ],
+      "description": "",
+      "applyUrl": "https://careers.servicenow.com/jobs/744000100382911/software-engineer/",
+      "postedDate": "Today",
+      "postedBy": "admin",
+      "postedByUser": "Admin"
+    },
+    {
+      "id": "5e4c",
+      "title": "Trainee Actuarial Analyst",
+      "company": "Principal",
+      "category": "Programming",
+      "location": "Pune, India",
+      "type": "Full-time",
+      "salary": "",
+      "experience": "Freshers",
+      "skills": [
+        ""
+      ],
+      "description": "",
+      "applyUrl": "https://careers.principal.com/in/jobs/49491?lang=en-us",
+      "postedDate": "Today",
+      "postedBy": "admin",
+      "postedByUser": "Admin"
+    },
+    {
+      "id": "b84d",
+      "title": "Apprentice - Product Management & Quality Excellence",
+      "company": "American Express",
+      "category": "Programming",
+      "location": "Gurgaon, Haryana, India",
+      "type": "Full-time",
+      "salary": "",
+      "experience": "Freshers",
+      "skills": [
+        ""
+      ],
+      "description": "",
+      "applyUrl": "https://aexp.eightfold.ai/careers/job/39044241?hl=en",
+      "postedDate": "Today",
+      "postedBy": "admin",
+      "postedByUser": "Admin"
+    },
+    {
+      "id": "ae86",
+      "title": "Trainee Associate-NOC",
+      "company": "Deloitte",
+      "category": "Programming",
+      "location": "Chennai, Tamil Nadu,  Hyderabad, Telangana, India",
+      "type": "Full-time",
+      "salary": "",
+      "experience": "0-1  Year",
+      "skills": [
+        ""
+      ],
+      "description": "",
+      "applyUrl": "https://usijobs.deloitte.com/en_US/careersUSI/JobDetail/USI-EH26-Consulting-AI-E-HCI-Trainee-Associate-NOC/320298",
+      "postedDate": "Today",
+      "postedBy": "admin",
+      "postedByUser": "Admin"
+    }
+  ],
+  "courses": [
+    {
+      "id": "88e4",
+      "title": "100 Days of ML Playlist  ",
+      "instructor": "Campus X",
+      "category": "Programming",
+      "level": "Beginner",
+      "duration": "",
+      "description": "",
+      "youtubePlaylist": "https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH",
+      "topics": [
+        "ML All Algos"
+      ]
+    },
+    {
+      "id": "bba2",
+      "title": "Web Development ",
+      "instructor": "Code With Harry",
+      "category": "Full Stack",
+      "level": "Beginner",
+      "duration": "",
+      "description": "",
+      "youtubePlaylist": "https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w",
+      "topics": [
+        ""
+      ]
+    },
+    {
+      "id": "542c",
+      "title": "Deep Learning Playlist",
+      "instructor": "Siddhardhan",
+      "category": "Programming",
+      "level": "Beginner",
+      "duration": "",
+      "description": "",
+      "youtubePlaylist": "https://www.youtube.com/results?search_query=DL+projects+siddhardhan+playlist",
+      "topics": [
+        ""
+      ]
+    },
+    {
+      "id": "d3f1",
+      "title": "C++ with DSA ",
+      "instructor": "Love Babber",
+      "category": "Programming",
+      "level": "Beginner",
+      "duration": "",
+      "description": "",
+      "youtubePlaylist": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA",
+      "topics": [
+        ""
+      ]
+    },
+    {
+      "id": "4556",
+      "title": "A-Z DSA Revision ",
+      "instructor": "Striver",
+      "category": "Programming",
+      "level": "Beginner",
+      "duration": "",
+      "description": "",
+      "youtubePlaylist": "https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz",
+      "topics": [
+        ""
+      ]
+    }
+  ],
+  "hrs": [],
+  "govtjobs": [
+    {
+      "id": "a475",
+      "title": "RBI Grade B",
+      "organization": "RBI",
+      "category": "Banking",
+      "location": "Delhi",
+      "qualification": "Graduate",
+      "salary": "",
+      "lastDate": "",
+      "vacancies": "",
+      "description": "",
+      "applyUrl": "https://www.rbi.org.in/",
+      "postedDate": "Today",
+      "postedBy": "admin",
+      "postedByUser": "Admin"
+    }
+  ]
+}
